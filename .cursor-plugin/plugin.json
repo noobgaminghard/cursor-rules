@@ -1,0 +1,28 @@
+{
+  "name": "survivor-forge-cursor-rules",
+  "version": "1.0.0",
+  "description": "35+ production-ready cursor rules for 16+ frameworks. React, Next.js, Python, Django, FastAPI, Go, Rust, TypeScript, SvelteKit, Flutter, AWS, Docker, and more.",
+  "author": "Survivor Forge",
+  "homepage": "https://survivorforge.com",
+  "keywords": [
+    "cursorrules",
+    "cursor-rules",
+    "react",
+    "nextjs",
+    "python",
+    "typescript",
+    "go",
+    "rust",
+    "django",
+    "fastapi",
+    "sveltekit",
+    "flutter",
+    "docker",
+    "aws",
+    "tailwindcss",
+    "supabase"
+  ],
+  "repository": "https://github.com/survivorforge/cursor-rules",
+  "license": "MIT",
+  "rules": "rules/"
+}
